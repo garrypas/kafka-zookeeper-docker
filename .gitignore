@@ -1,0 +1,10 @@
+node_modules
+classes/
+target/
+
+### IntelliJ ###
+.idea
+*.iws
+*.iml
+*.ipr
+.run

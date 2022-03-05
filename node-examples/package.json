@@ -1,0 +1,15 @@
+{
+  "name": "node-kafkaproducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "consumer": "node consumer.js",
+    "producer": "node producer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^1.16.0"
+  }
+}
